@@ -1,0 +1,16 @@
+#nihao {
+  color: #111;
+}
+#header {
+  color: black;
+}
+#header p {
+  font-size: 18px;
+  width: 50px;
+  background: black;
+  height: 50px;
+  float: left;
+}
+#header a {
+  text-decoration: none;
+}
