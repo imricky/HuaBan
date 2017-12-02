@@ -1,3 +1,6 @@
-p {
-  color: darkred;
+#menu-bar {
+  width: 1248px;
+  height: 48px;
+  border: 1px solid black;
+  margin: 0 auto;
 }
